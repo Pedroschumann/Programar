@@ -1,0 +1,1 @@
+print("iai pedro.. se vc ver isso em casa então deu certo")
